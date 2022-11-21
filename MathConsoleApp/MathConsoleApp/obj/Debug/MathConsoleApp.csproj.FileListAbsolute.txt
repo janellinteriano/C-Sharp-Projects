@@ -1,0 +1,6 @@
+C:\Users\janel\source\repos\C-Sharp-Projects\MathConsoleApp\MathConsoleApp\obj\Debug\MathConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\janel\source\repos\C-Sharp-Projects\MathConsoleApp\MathConsoleApp\bin\Debug\MathConsoleApp.exe.config
+C:\Users\janel\source\repos\C-Sharp-Projects\MathConsoleApp\MathConsoleApp\bin\Debug\MathConsoleApp.exe
+C:\Users\janel\source\repos\C-Sharp-Projects\MathConsoleApp\MathConsoleApp\bin\Debug\MathConsoleApp.pdb
+C:\Users\janel\source\repos\C-Sharp-Projects\MathConsoleApp\MathConsoleApp\obj\Debug\MathConsoleApp.exe
+C:\Users\janel\source\repos\C-Sharp-Projects\MathConsoleApp\MathConsoleApp\obj\Debug\MathConsoleApp.pdb
