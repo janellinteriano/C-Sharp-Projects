@@ -1,0 +1,7 @@
+C:\Users\janel\source\repos\C-Sharp-Projects\ShippingQuote\ShippingQuote\bin\Debug\ShippingQuote.exe.config
+C:\Users\janel\source\repos\C-Sharp-Projects\ShippingQuote\ShippingQuote\bin\Debug\ShippingQuote.exe
+C:\Users\janel\source\repos\C-Sharp-Projects\ShippingQuote\ShippingQuote\bin\Debug\ShippingQuote.pdb
+C:\Users\janel\source\repos\C-Sharp-Projects\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.csproj.AssemblyReference.cache
+C:\Users\janel\source\repos\C-Sharp-Projects\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.csproj.CoreCompileInputs.cache
+C:\Users\janel\source\repos\C-Sharp-Projects\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.exe
+C:\Users\janel\source\repos\C-Sharp-Projects\ShippingQuote\ShippingQuote\obj\Debug\ShippingQuote.pdb
