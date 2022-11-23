@@ -1,0 +1,7 @@
+C:\Users\janel\source\repos\C-Sharp-Projects\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.exe.config
+C:\Users\janel\source\repos\C-Sharp-Projects\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.exe
+C:\Users\janel\source\repos\C-Sharp-Projects\WorkingWithStrings\WorkingWithStrings\bin\Debug\WorkingWithStrings.pdb
+C:\Users\janel\source\repos\C-Sharp-Projects\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.csproj.AssemblyReference.cache
+C:\Users\janel\source\repos\C-Sharp-Projects\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\janel\source\repos\C-Sharp-Projects\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.exe
+C:\Users\janel\source\repos\C-Sharp-Projects\WorkingWithStrings\WorkingWithStrings\obj\Debug\WorkingWithStrings.pdb
