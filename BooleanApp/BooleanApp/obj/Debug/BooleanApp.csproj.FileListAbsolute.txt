@@ -1,0 +1,7 @@
+C:\Users\janel\source\repos\C-Sharp-Projects\BooleanApp\BooleanApp\bin\Debug\BooleanApp.exe.config
+C:\Users\janel\source\repos\C-Sharp-Projects\BooleanApp\BooleanApp\bin\Debug\BooleanApp.exe
+C:\Users\janel\source\repos\C-Sharp-Projects\BooleanApp\BooleanApp\bin\Debug\BooleanApp.pdb
+C:\Users\janel\source\repos\C-Sharp-Projects\BooleanApp\BooleanApp\obj\Debug\BooleanApp.csproj.AssemblyReference.cache
+C:\Users\janel\source\repos\C-Sharp-Projects\BooleanApp\BooleanApp\obj\Debug\BooleanApp.csproj.CoreCompileInputs.cache
+C:\Users\janel\source\repos\C-Sharp-Projects\BooleanApp\BooleanApp\obj\Debug\BooleanApp.exe
+C:\Users\janel\source\repos\C-Sharp-Projects\BooleanApp\BooleanApp\obj\Debug\BooleanApp.pdb
