@@ -1,0 +1,7 @@
+C:\Users\janel\source\repos\C-Sharp-Projects\TryAndCatch\TryAndCatch\bin\Debug\TryAndCatch.exe.config
+C:\Users\janel\source\repos\C-Sharp-Projects\TryAndCatch\TryAndCatch\bin\Debug\TryAndCatch.exe
+C:\Users\janel\source\repos\C-Sharp-Projects\TryAndCatch\TryAndCatch\bin\Debug\TryAndCatch.pdb
+C:\Users\janel\source\repos\C-Sharp-Projects\TryAndCatch\TryAndCatch\obj\Debug\TryAndCatch.csproj.AssemblyReference.cache
+C:\Users\janel\source\repos\C-Sharp-Projects\TryAndCatch\TryAndCatch\obj\Debug\TryAndCatch.csproj.CoreCompileInputs.cache
+C:\Users\janel\source\repos\C-Sharp-Projects\TryAndCatch\TryAndCatch\obj\Debug\TryAndCatch.exe
+C:\Users\janel\source\repos\C-Sharp-Projects\TryAndCatch\TryAndCatch\obj\Debug\TryAndCatch.pdb
