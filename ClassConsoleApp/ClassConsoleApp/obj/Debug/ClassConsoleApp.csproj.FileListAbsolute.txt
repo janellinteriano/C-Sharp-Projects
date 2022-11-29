@@ -1,0 +1,7 @@
+C:\Users\janel\source\repos\C-Sharp-Projects\ClassConsoleApp\ClassConsoleApp\bin\Debug\ClassConsoleApp.exe.config
+C:\Users\janel\source\repos\C-Sharp-Projects\ClassConsoleApp\ClassConsoleApp\bin\Debug\ClassConsoleApp.exe
+C:\Users\janel\source\repos\C-Sharp-Projects\ClassConsoleApp\ClassConsoleApp\bin\Debug\ClassConsoleApp.pdb
+C:\Users\janel\source\repos\C-Sharp-Projects\ClassConsoleApp\ClassConsoleApp\obj\Debug\ClassConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\janel\source\repos\C-Sharp-Projects\ClassConsoleApp\ClassConsoleApp\obj\Debug\ClassConsoleApp.exe
+C:\Users\janel\source\repos\C-Sharp-Projects\ClassConsoleApp\ClassConsoleApp\obj\Debug\ClassConsoleApp.pdb
+C:\Users\janel\source\repos\C-Sharp-Projects\ClassConsoleApp\ClassConsoleApp\obj\Debug\ClassConsoleApp.csproj.AssemblyReference.cache
