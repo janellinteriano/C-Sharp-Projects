@@ -1,0 +1,7 @@
+C:\Users\janel\source\repos\C-Sharp-Projects\MethodConsoleApp2\MethodConsoleApp2\obj\Debug\MethodConsoleApp2.csproj.AssemblyReference.cache
+C:\Users\janel\source\repos\C-Sharp-Projects\MethodConsoleApp2\MethodConsoleApp2\obj\Debug\MethodConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\janel\source\repos\C-Sharp-Projects\MethodConsoleApp2\MethodConsoleApp2\bin\Debug\MethodConsoleApp2.exe.config
+C:\Users\janel\source\repos\C-Sharp-Projects\MethodConsoleApp2\MethodConsoleApp2\bin\Debug\MethodConsoleApp2.exe
+C:\Users\janel\source\repos\C-Sharp-Projects\MethodConsoleApp2\MethodConsoleApp2\bin\Debug\MethodConsoleApp2.pdb
+C:\Users\janel\source\repos\C-Sharp-Projects\MethodConsoleApp2\MethodConsoleApp2\obj\Debug\MethodConsoleApp2.exe
+C:\Users\janel\source\repos\C-Sharp-Projects\MethodConsoleApp2\MethodConsoleApp2\obj\Debug\MethodConsoleApp2.pdb
