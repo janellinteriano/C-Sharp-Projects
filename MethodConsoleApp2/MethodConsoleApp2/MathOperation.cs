@@ -12,10 +12,9 @@ namespace MethodConsoleApp2
         {
             // adds 50 to num1
             int num3 = num1 + 50;
-            // displays both numbers to console
+            // displays num2 to console
             Console.WriteLine(num2);
             Console.ReadLine();
-            Console.WriteLine(num3);
         }
     }
 }

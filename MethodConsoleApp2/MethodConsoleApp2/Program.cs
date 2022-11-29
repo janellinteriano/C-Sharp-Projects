@@ -12,10 +12,11 @@ namespace MethodConsoleApp2
         {
             // instantiates class                          
             MathOperation operation = new MathOperation();
-            // calling parameters by name
             // passes in two numbers
-            operation.Addition(num1: 9, num2: 10);
-            Console.ReadLine();
+            operation.Addition(9, 10);
+            // passes in two numbers
+            // calling parameters by name
+            operation.Addition(num1: 20, num2: 13);
         }
     }
 }
