@@ -1,0 +1,6 @@
+C:\Users\janel\source\repos\C-Sharp-Projects\MethodsAndObjects\MethodsAndObjects\bin\Debug\MethodsAndObjects.exe.config
+C:\Users\janel\source\repos\C-Sharp-Projects\MethodsAndObjects\MethodsAndObjects\bin\Debug\MethodsAndObjects.exe
+C:\Users\janel\source\repos\C-Sharp-Projects\MethodsAndObjects\MethodsAndObjects\bin\Debug\MethodsAndObjects.pdb
+C:\Users\janel\source\repos\C-Sharp-Projects\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\janel\source\repos\C-Sharp-Projects\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.exe
+C:\Users\janel\source\repos\C-Sharp-Projects\MethodsAndObjects\MethodsAndObjects\obj\Debug\MethodsAndObjects.pdb
