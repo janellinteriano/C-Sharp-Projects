@@ -1,0 +1,12 @@
+C:\Users\janel\source\repos\DateTimeApp\DateTimeApp\bin\Debug\DateTimeApp.exe.config
+C:\Users\janel\source\repos\DateTimeApp\DateTimeApp\bin\Debug\DateTimeApp.exe
+C:\Users\janel\source\repos\DateTimeApp\DateTimeApp\bin\Debug\DateTimeApp.pdb
+C:\Users\janel\source\repos\DateTimeApp\DateTimeApp\obj\Debug\DateTimeApp.csproj.CoreCompileInputs.cache
+C:\Users\janel\source\repos\DateTimeApp\DateTimeApp\obj\Debug\DateTimeApp.exe
+C:\Users\janel\source\repos\DateTimeApp\DateTimeApp\obj\Debug\DateTimeApp.pdb
+C:\Users\janel\source\repos\C-Sharp-Projects\DateTimeApp\DateTimeApp\bin\Debug\DateTimeApp.exe.config
+C:\Users\janel\source\repos\C-Sharp-Projects\DateTimeApp\DateTimeApp\bin\Debug\DateTimeApp.exe
+C:\Users\janel\source\repos\C-Sharp-Projects\DateTimeApp\DateTimeApp\bin\Debug\DateTimeApp.pdb
+C:\Users\janel\source\repos\C-Sharp-Projects\DateTimeApp\DateTimeApp\obj\Debug\DateTimeApp.csproj.CoreCompileInputs.cache
+C:\Users\janel\source\repos\C-Sharp-Projects\DateTimeApp\DateTimeApp\obj\Debug\DateTimeApp.exe
+C:\Users\janel\source\repos\C-Sharp-Projects\DateTimeApp\DateTimeApp\obj\Debug\DateTimeApp.pdb
