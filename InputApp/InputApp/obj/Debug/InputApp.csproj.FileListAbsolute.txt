@@ -1,0 +1,6 @@
+C:\Users\janel\source\repos\InputApp\InputApp\bin\Debug\InputApp.exe.config
+C:\Users\janel\source\repos\InputApp\InputApp\bin\Debug\InputApp.exe
+C:\Users\janel\source\repos\InputApp\InputApp\bin\Debug\InputApp.pdb
+C:\Users\janel\source\repos\InputApp\InputApp\obj\Debug\InputApp.csproj.CoreCompileInputs.cache
+C:\Users\janel\source\repos\InputApp\InputApp\obj\Debug\InputApp.exe
+C:\Users\janel\source\repos\InputApp\InputApp\obj\Debug\InputApp.pdb
