@@ -1,0 +1,7 @@
+C:\Users\janel\source\repos\C-Sharp-Projects\ConstructorApp\ConstructorApp\bin\Debug\ConstructorApp.exe.config
+C:\Users\janel\source\repos\C-Sharp-Projects\ConstructorApp\ConstructorApp\bin\Debug\ConstructorApp.exe
+C:\Users\janel\source\repos\C-Sharp-Projects\ConstructorApp\ConstructorApp\bin\Debug\ConstructorApp.pdb
+C:\Users\janel\source\repos\C-Sharp-Projects\ConstructorApp\ConstructorApp\obj\Debug\ConstructorApp.csproj.AssemblyReference.cache
+C:\Users\janel\source\repos\C-Sharp-Projects\ConstructorApp\ConstructorApp\obj\Debug\ConstructorApp.csproj.CoreCompileInputs.cache
+C:\Users\janel\source\repos\C-Sharp-Projects\ConstructorApp\ConstructorApp\obj\Debug\ConstructorApp.exe
+C:\Users\janel\source\repos\C-Sharp-Projects\ConstructorApp\ConstructorApp\obj\Debug\ConstructorApp.pdb
