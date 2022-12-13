@@ -51,7 +51,7 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {   
-                insuree.Quote = Quote(insuree.DateOfBirth, insuree.CarYear, insuree.CarMake, insuree.CarModel, insuree.DUI, insuree.SpeedingTickets, insuree.CoverageType, insuree.Quote);
+                insuree.Quote = Quote(insuree);
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
                 return RedirectToAction("Index");
@@ -126,56 +126,53 @@ namespace CarInsurance.Controllers
             base.Dispose(disposing);
         }
 
-        public static decimal Quote(DateTime DateOfBirth, int CarYear, string CarMake, string CarModel, bool DUI, int SpeedingTickets, bool CoverageType, decimal Quote)
+        public static decimal Quote(Insuree insuree)
         {
-            int userAge = DateTime.Now.Year - DateOfBirth.Year;
-            DUI = false;
-            CoverageType = false;
-
+            int userAge = DateTime.Now.Year - insuree.DateOfBirth.Year;
             // age if statement
-            Quote = 50;
+            insuree.Quote = 50;
             if (userAge <= 18)
             {
-                Quote += 100;
+                insuree.Quote += 100;
             }
             else if (userAge > 19 & userAge <= 25)
             {
-                Quote += 50;
+                insuree.Quote += 50;
             }
             else if (userAge >= 26)
             {
-                Quote += 25;
+                insuree.Quote += 25;
             }
             // car if statements
-            if (CarYear < 2000)
+            if (insuree.CarYear < 2000)
             {
-                Quote += 25;
+                insuree.Quote += 25;
             }
-            else if (CarYear > 2015)
+            else if (insuree.CarYear > 2015)
             {
-                Quote += 25;
+                insuree.Quote += 25;
             }
-            else if (CarMake == "Porsche")
+            else if (insuree.CarMake == "Porsche")
             {
-                Quote += 25;
+                insuree.Quote += 25;
             }
-            else if (CarMake == "Porsche" & CarModel == "911 Carrera")
+            else if (insuree.CarMake == "Porsche" && insuree.CarModel == "911 Carrera")
             {
-                Quote += 25;
+                insuree.Quote += 25;
             }
-            if (SpeedingTickets > 0)
+            if (insuree.SpeedingTickets > 0)
             {
-                Quote = 10 * SpeedingTickets;  
+                insuree.Quote += 10 * insuree.SpeedingTickets;  
             }
-            if (DUI == true)
+            if (insuree.DUI)
             {
-                Quote = Quote * Convert.ToDecimal(1.25);
+                insuree.Quote *= Convert.ToDecimal(1.25);
             }
-            if (CoverageType == true)
+            if (insuree.CoverageType)
             {
-                Quote = Quote * Convert.ToDecimal(1.50);
+                insuree.Quote *= Convert.ToDecimal(1.50);
             }
-            return Quote;
+            return insuree.Quote;
         }
 
         public ActionResult Admin()
